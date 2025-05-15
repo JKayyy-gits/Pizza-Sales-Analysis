@@ -1,4 +1,16 @@
 # Pizza-Sales-Analysis
+This project analyzes pizza sales data using SQL to uncover valuable business insights. The objective is to explore sales trends, customer preferences, and performance by size, type, and category. This project is part of my data analytics learning journey and demonstrates the use of SQL for querying, joining, aggregating, and analyzing relational data.
+
+The dataset is composed of four CSV files representing a pizza delivery business:
+orders.csv – Includes order IDs and order timestamps.
+order_details.csv – Contains quantity, pizza IDs, and links to each order.
+pizzas.csv – Includes pizza ID, size, price, and type ID.
+pizza_types.csv – Lists names, categories, and ingredients for each pizza type.
+
+
+
+
+
 The Questions of this analysis:
 
 # Basic:
