@@ -54,7 +54,7 @@ Excel files for transporting the SQL data to Power BI
 ## 👩‍💻 Author
 **Jasleen Malik**  
 MBA Candidate | Data Analytics Enthusiast  
-📫 [Connect on LinkedIn](https://www.linkedin.com/in/jasleenmalik) 
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/jasleen-malik-8321601ab/) 
 
 
 
