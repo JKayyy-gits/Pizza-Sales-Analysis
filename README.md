@@ -51,6 +51,12 @@ Excel files for transporting the SQL data to Power BI
 [📄 View Full Dashboard PDF](Pizza%20Sales%20Analysis.pdf)
 
 
+## 👩‍💻 Author
+**Jasleen Malik**  
+MBA Candidate | Data Analytics Enthusiast  
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/jasleenmalik) 
+
+
 
 
 
