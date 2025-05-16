@@ -48,7 +48,7 @@ Excel files for transporting the SQL data to Power BI
 6. Total Orders: 21K
 7. Total Revenue: $817.86K
 
-[📄 View Full Dashboard PDF](PizzaSalesAnalysis.pdf)
+[📄 View Full Dashboard PDF](Pizza%20Sales%20Analysis.pdf)
 
 
 
